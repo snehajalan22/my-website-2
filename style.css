@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(252, 174, 235);
+}
+
+*{
+    border: solid;
+}
+
+.header{
+    background-color: rgb(138, 205, 243);
+    display: flex;
+    justify-content: space-between;
+}
+
+.snehasOrigami{
+
+    background-color: rgb(137, 147, 238);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.socialMedia{
+
+    background-color: rgb(216, 140, 248);
+    display: flex;
+    justify-content: flex-end;
+}
+h2,p{
+    text-align: center;
+}
